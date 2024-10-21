@@ -1,2 +1,1 @@
-# Netflix-Landing-Page
-Netflix Landing Page with HTML, CSS &amp; JavaScript.
+# Netflix Landing Page
